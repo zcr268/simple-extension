@@ -41,7 +41,7 @@
     StringPrivacyPolicy,
     StringUrlTestTool,
   } from '../../js/i18_string_name'
-  import { StringEdgeStorePage } from '@/Users/lock/Desktop/simple-extension/src/js/i18_string_name'
+  import { StringEdgeStorePage } from '../../js/i18_string_name.js'
 
   export default {
     name: 'editor-about',
